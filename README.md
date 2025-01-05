@@ -21,3 +21,4 @@ For inquiries or permissions or contribute to this project, please reach out via
 
 Email: [skmasih11@gmail.com](mailto:skmasih11@gmail.com)  
 GitHub: [https://github.com/avinesh-masih](https://github.com/avinesh-masih)  
+Portfolio: [avinesh-masih.github.io](https://avinesh-masih.github.io/)
